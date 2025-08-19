@@ -1,11 +1,9 @@
 # Live-Attendance-System-Using-Face-Recognition
-This is a Python-based attendance management system that uses face recognition to automatically mark student or employee presence. 
-The system captures faces in real-time, compares them with a stored dataset, and records attendance in a CSV file with a timestamp.
-FACE RECOGNITION ATTENDANCE MANAGEMENT SYSTEM
 ---------------------------------------------
 
 # 📌 Project Overview:
-This project is a real-time face recognition attendance management system built using Python and OpenCV. It captures facial images of students, trains a model using LBPH algorithm, and recognizes faces via webcam to mark attendance in CSV files.
+This is a Python-based attendance management system that uses face recognition to automatically mark student or employee presence. 
+The system captures faces in real-time, compares them with a stored dataset, and records attendance in a CSV file with a timestamp.
 
 # 🖥️ Technologies Used:
 - Python 3.10+
@@ -60,8 +58,8 @@ Install all dependencies using:
 - pillow
 - pyttsx3 (optional)
 
-#📞 Developer:
-Manish Rajbanshi
-Avinash Kumar Raut
-Avajit Kumar Kewrat
-Raju Kumar Sah
+# 📞 Developer:
+- Manish Rajbanshi
+- Avinash Kumar Raut
+- Avajit Kumar Kewrat
+- Raju Kumar Sah
