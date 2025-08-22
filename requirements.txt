@@ -5,3 +5,6 @@ imutils
 numpy
 Pillow
 tk
+scikit-learn
+keras-facenet
+tensorflow
