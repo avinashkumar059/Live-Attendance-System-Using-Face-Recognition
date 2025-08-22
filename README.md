@@ -13,6 +13,11 @@ The system captures faces in real-time, compares them with a stored dataset, and
 - Tkinter (for GUI)
 - CSV module
 - pyttsx3 (optional: voice feedback)
+- scikit-learn
+- keras-facenet
+- tensorflow
+- face-recognition
+- dlib
 
 # 📁 Folder Structure:
 - capture_images.py       → Register new student images
